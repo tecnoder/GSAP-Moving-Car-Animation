@@ -7,7 +7,7 @@ body {
     height: 340px;
     margin: 50px auto 0 auto;
     padding-top: 10px;
-    background: url(img/landscape.jpg); 
+    background: url(../img/landscape.jpg); 
     overflow: hidden;
 }
 
@@ -30,7 +30,7 @@ body {
 #car{
     position: absolute;
     left: -421px;
-    background: url(img/cars_tiled.png) repeat-y;
+    background: url(../img/cars_tiled.png) repeat-y;
     width: 421px;
     height: 1160px;
     top: 180px;  
